@@ -74,7 +74,7 @@
       "currency": "USD"
     },
     "favicon": false,
-    "mbrsiteDomain": "etawqhgmbg",
+    "mbrsiteDomain": "6l6xdxzecm",
     "usedWebp": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -91,7 +91,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacityOverlay": "1",
-      "text": "Używamy plików cookie, aby zapewnić najlepszą jakość usług zgodnie z postanowieniami <a href='https://swoimszlakiem-sklep.pl/help-center/privacy-policy'>Polityki prywatności i cookies</a>.",
+      "text": "Używamy plików cookie, aby zapewnić najlepszą jakość usług zgodnie z postanowieniami <a href='https://swoimszlakiem-sklep.pl/help-center?docType=privacyandpolicy'>Polityki prywatności i cookies</a>.",
       "textButton": "AKCEPTUJ",
       "rejectText": "REJECT"
     },
@@ -104,7 +104,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "W celu kontynuowania potwierdź nasz <a href='https://swoimszlakiem-sklep.pl/help-center/regulation'>Regulamin sklepu</a> i <a href='https://swoimszlakiem-sklep.pl/help-center/privacy-policy'>Politykę prywatności</a>."
+      "text": "W celu kontynuowania potwierdź nasz <a href='https://swoimszlakiem-sklep.pl/help-center?docType=regulation'>Regulamin sklepu</a> i <a href='https://swoimszlakiem-sklep.pl/help-center?docType=privacyandpolicy>Politykę prywatności</a>."
     },
     "cookiesAlertType": "1"
   },
